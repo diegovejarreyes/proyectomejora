@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 APP_DIR = Path(__file__).resolve().parent
-FAB_CHECKLIST_PATH = APP_DIR / "Checklist_PRO_resultado.xlsx"
+FAB_CHECKLIST_PATH = APP_DIR / "Checklist_PRO_resultado2.xlsx"
 MEDIA_DIR = APP_DIR / "evidencias_fabricacion"
 MEDIA_DIR.mkdir(exist_ok=True)
 
