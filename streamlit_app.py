@@ -176,7 +176,7 @@ def render_header():
             st.warning("No se encontró el logo de Andes Motor en la carpeta del proyecto.")
     with top2:
         st.title("Sistema de Mejora Continua – Fabricación y PDI")
-        st.caption("Visión directorio: control de calidad, revisión Chile, cumplimiento PDI y liberación de unidades")
+        st.caption("Control de calidad, revisión Chile, cumplimiento PDI y liberación de unidades")
     st.markdown(
         """
         <div style="
